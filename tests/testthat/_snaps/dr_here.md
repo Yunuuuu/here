@@ -25,6 +25,7 @@
         - contains a file ".here"
         - contains a file matching "[.]Rproj$" with contents matching "^Version: " in the first line
         - contains a file "DESCRIPTION" with contents matching "^Package: "
+        - contains a directory ".vscode"
         - contains a file "remake.yml"
         - contains a file ".projectile"
         - contains a directory ".git"
